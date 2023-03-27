@@ -1,0 +1,18 @@
+.jeden {
+    float: left;
+    border: 2px solid blue;
+  }
+  
+  .dwa {
+    border: 2px solid black;
+  }
+  
+  .trzy {
+    float: left;
+    border: 2px solid blue;
+  }
+  
+  .cztery {
+    border: 2px solid black;
+    clear: left;
+  }
